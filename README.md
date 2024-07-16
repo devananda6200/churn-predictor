@@ -12,7 +12,9 @@ to leave in the future and take actions to keep them before they decide to leave
 
 To get started, clone the repository and install the required packages:
 git clone https://github.com/devananda6200/churn-predictor.git
+
 cd customer-churn
+
 pip install -r requirements.txt
 
 
